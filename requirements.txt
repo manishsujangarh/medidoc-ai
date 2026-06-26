@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+pymupdf
+google-generativeai
+langchain-google-genai
+langchain
+langchain-core
+langchain-text-splitters
+langgraph
+pinecone
+tiktoken
+python-dotenv
+pydantic-settings
+pytest
